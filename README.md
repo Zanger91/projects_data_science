@@ -6,3 +6,6 @@
 
 |Название проекта|Описание|Используемые библиотеки|
 |:---------------|:-------|:----------------------|
+|[Изучение рынка видеоигр](https://github.com/Zanger91/projects_data_science/tree/master/project_videogames_market)|||
+|[Прогнозирование спроса на такси](https://github.com/Zanger91/projects_data_science/tree/master/project_taxi)|||
+|[Определение тональности пользовательских комментариев](https://github.com/Zanger91/projects_data_science/tree/master/project_sentiment_analysis)|||
