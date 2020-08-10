@@ -16,3 +16,9 @@ Pandas, matplotlib, statsmodels, sklearn, catboost, lightgbm, numpy
 Обучение моделей с различными гиперпараметрами.
 ### Шаг 4. Тестирование модели
 Тестирование наилучших моделй по метрикам качества и производительности. Выбор окончательной модели.
+## Результаты и выводы
+Построили модель, которая удовлетвряет метрике качества RMSE.
+Модель LGBMRegressor(max_depth = 9, n_estimators = 90)
+RMSE test: 44.15
+CPU times: user 1.05 s, sys: 27.8 ms, total: 1.07 s
+Wall time: 1.04 s
