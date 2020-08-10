@@ -16,6 +16,6 @@ Pandas, nltk, re, sklearn, catboost, lightgbm
 
 ## Результаты и выводы
 Мы смогли построить модель, которая справляется с поставленной задачей достаточно быстро и в соответствии с требуемым уровнем метрики качества. Это модель логистической регрессии.
-F1 score: 0.7503
-CPU times: user 8.66 s, sys: 5.35 s, total: 14 s
-Wall time: 14 s
+F1 score: 0.7503;
+CPU times: user 8.66 s, sys: 5.35 s, total: 14 s;
+Wall time: 14 s.
